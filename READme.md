@@ -1,0 +1,1 @@
+##Vanilla Javascript Application checking spelling errors by counting your typing speed in min/sec/microsec and show your progress on the text area border  ##
