@@ -1,0 +1,27 @@
+{
+  "name": "typingtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnus2019/Typing-speed-with-spelling-check.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnus2019/Typing-speed-with-spelling-check/issues"
+  },
+  "homepage": "https://github.com/mnus2019/Typing-speed-with-spelling-check#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4",
+    "onchange": "^7.0.0",
+    "parallelshell": "3.0.1"
+  },
+  "dependencies": {}
+}
